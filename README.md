@@ -1,5 +1,5 @@
 # Webscraping reviews from Yelp.com
-In this notebook, I used Python and Selenium to scrape data from Yelp. 
+In this notebook, I used Python and Selenium to scrape data from Yelp. The only challenge with this scrapping is that the user's class labels change randomly from page to page.
 
 The result is look like the following:
 
